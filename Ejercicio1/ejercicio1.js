@@ -1,5 +1,7 @@
 //Estudiante: Cristhian Orlando Aguirre Cardona
-/*Ejercicio 1: Generar un código que determine si un numero es par o impar*/
+/*
+    Ejercicio 1: Generar un código que determine si un numero es par o impar
+*/
 
 let numero1 = 23;
 let operacion = numero1 % 2;
