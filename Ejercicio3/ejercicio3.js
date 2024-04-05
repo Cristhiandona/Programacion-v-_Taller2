@@ -1,4 +1,4 @@
-//Estudiante: Cristhian Orlando Aguirre Cardona
+//Estudiante: Cristhian Orlando Aguirre Cardona - Cedula: 1088307052
 /*
     Ejercicio 3: Generar un código determine la diferencia ( resta ) entre dos
 números de tal manera que la resta siempre se haga del numero mayor 
@@ -17,5 +17,5 @@ if(numero1 > numero2 || numero1 == numero2 ){
 
     operacion2 = numero2 - numero1;
     console.log('El resultado de la Resta es: ' + operacion2);
-    
+
 }

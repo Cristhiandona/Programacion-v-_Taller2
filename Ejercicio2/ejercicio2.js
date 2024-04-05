@@ -1,4 +1,4 @@
-//Estudiante: Cristhian Orlando Aguirre Cardona
+//Estudiante: Cristhian Orlando Aguirre Cardona - Cedula: 1088307052
 /*
     Ejercicio 2: Generar un código que determine si un numero es 
     negativo, positivo o cero

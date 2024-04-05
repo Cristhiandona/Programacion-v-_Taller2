@@ -1,4 +1,4 @@
-//Estudiante: Cristhian Orlando Aguirre Cardona
+//Estudiante: Cristhian Orlando Aguirre Cardona - Cedula: 1088307052
 /*
     Ejercicio 1: Generar un código que determine si un numero es par o impar
 */
