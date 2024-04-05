@@ -8,7 +8,7 @@ let numero2 = 1;
 
 if(numero2 < 0 ){
 
-    console.log('El número '+ numero2 + ' es un número negativo');
+    console.log('El número '+ numero2 + ' es un número Negativo');
 
 }else if (numero2 == 0){
 
