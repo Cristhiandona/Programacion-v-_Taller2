@@ -7,8 +7,8 @@
     Ejemplo si compras 20 artículos de 10 dólares se te descuenta un 15% del total 
     pagarías 20*10 - 20*10*0.15 = 170 dólares.
 */
-const cantidadArticulos = window.prompt("Ingrese la cantidad de Articulos Iguales");
-const precioArticulos = window.prompt("Ingrese el precio unitario del Articulo");
+const cantidadArticulos = parseFloat(window.prompt("Ingrese la cantidad de Articulos Iguales"));
+const precioArticulos = parseFloat(window.prompt("Ingrese el precio unitario del Articulo"));
 const total = cantidadArticulos * precioArticulos;
 
 if(cantidadArticulos > 10 && precioArticulos > 40){
