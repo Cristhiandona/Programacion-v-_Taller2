@@ -7,5 +7,19 @@
     Ejemplo: si recorre 100 km en 4 horas, ha ido a una velocidad de 100/4 que son 25km/h.
     Estaría descalificado.
 */
+const tramo = window.prompt("Ingrese el Tramo o distancia Recorrida en Kilometros");
+const tiempo = window.prompt("Ingrese el Tiempo empleado en horas");
+
+const total = tramo / tiempo;
+
+if(total > 40 && total < 60){
+    alert("En total recorrió "+ total + " Kilometros por Hora");
+    alert("Pasate la Prueba");
+}else{
+    alert("En total recorrió "+ total + " Kilometros por Hora");
+    alert("Ha sido Descalificado");
+}
+
+
 
 
