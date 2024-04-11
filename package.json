@@ -8,10 +8,11 @@
     "ejercicio1": "node Ejercicio1/ejercicio1.js",
     "ejercicio2": "node Ejercicio2/ejercicio2.js",
     "ejercicio3": "node Ejercicio3/ejercicio3.js",
-    "ejercicio4": "node Ejercicio4/promptEjercicio4.js",
-    "ejercicio5": "node Ejercicio5/Ejercicio5.js",
-    "ejercicio6": "node Ejercicio6/Ejercicio6.js",
-    "ejercicio7": "node Ejercicio7/Ejercicio7.js"
+    "ejercicio4": "node Ejercicio4/ejercicio4.js",
+    "ejercicio5": "node Ejercicio5/ejercicio5.js",
+    "ejercicio6": "node Ejercicio6/ejercicio6.js",
+    "ejercicio7": "node Ejercicio7/ejercicio7.js",
+    "ejercicio8": "node Ejercicio7/ejercicio8.js"
   },
   "keywords": [],
   "author": "",
