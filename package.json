@@ -8,7 +8,7 @@
     "ejercicio1": "node Ejercicio1/ejercicio1.js",
     "ejercicio2": "node Ejercicio2/ejercicio2.js",
     "ejercicio3": "node Ejercicio3/ejercicio3.js",
-    "ejercicio4": "node Ejercicio4/ejercicio4.js",
+    "ejercicio4": "node Ejercicio4/promptEjercicio4.js",
     "ejercicio5": "node Ejercicio5/ejercicio5.js"
   },
   "keywords": [],

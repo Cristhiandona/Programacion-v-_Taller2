@@ -7,15 +7,18 @@
     ticket"
 */
 
-let medioTransporte = prompt('Ingrese el medio de transporte en el cual va a viajar',0);
-console.log(medioTransporte);
+const transporte = window.prompt("¿En que medio de transporte va a viajar: Coche, Tren, Bicicleta o Autobús");
+tren = "tren";
+autobus = "autobus";
 
-const dataFromConsole = process.argv;
-const opcion1 = dataFromConsole[2];
+const convertirMin = transporte.toLowerCase();
 
-if(opcion1 == 'tren'){
-    console.log("Lleve dinero para el ticket");
+if(convertirMin == tren || convertirMin == autobus ){
+    alert("Recuerda llevar el Ticket");
+}else{
+    alert("No debes Llevar ningún Ticket");
 }
+
 
 
 
